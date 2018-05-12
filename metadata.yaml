@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6478
     wikipedia: http://en.wikipedia.org/wiki/Rufus_Jones
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24934#Spiritual-Reformers-in-the-16th--amp--17th-Centuries
 gutenberg_issued: '2008-03-28'
 gutenberg_type: Text
 identifiers:
