@@ -1,0 +1,30 @@
+_repo: Spiritual-Reformers-in-the-16th--amp--17th-Centuries_24934
+_version: 0.1.0
+alternative_title: Spiritual Reformers in the Sixteenth and Seventeenth Centuries
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jones, Rufus M. (Rufus Matthew)
+    alias: Jones, Rufus Matthew
+    birthdate: 1863
+    deathdate: 1948
+    gutenberg_agent_id: '6478'
+    url: http://www.gutenberg.org/2009/agents/6478
+    wikipedia: http://en.wikipedia.org/wiki/Rufus_Jones
+description: ''
+gutenberg_issued: '2008-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24934'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reformers'
+- !lcsh 'Mysticism'
+- !lcc 'BV'
+title: Spiritual Reformers in the 16th & 17th Centuries
+url: http://www.gutenberg.org/ebooks/24934
